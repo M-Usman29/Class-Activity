@@ -22,12 +22,15 @@
   git push origin dev
 
   mkdir code.py
+  
   cd code.py
 
-  mkdir testcases,py
+  mkdir testcases.py
+  
   cd testcases.py
   
-comitted the testcases from test branch and created pull request frm test and merged into dev
+ comitted the testcases from test branch and created pull request from test and merged into dev
+ 
  Finally after merged dev into main
 
 
